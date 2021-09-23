@@ -43,8 +43,6 @@ pip install paddle padddlepaddle paddlex -y
 ```
 3.运行前需要把模型放入fish_backbone目录下
 
-模型下载地址：
-
 4.启动后端：
 
 在fish_backbone目录下运行以下代码启动后端：
